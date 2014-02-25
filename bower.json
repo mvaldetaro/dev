@@ -1,0 +1,22 @@
+{
+  "name": "Blog Gooruu",
+  "version": "1.0.0",
+  "authors": [
+    "mvaldetaro <mvaldetaro@gmail.com>"
+  ],
+  "description": "Blog de tecnologia e Gadgtes parte do projeto Gooruu",
+  "keywords": [
+    "blog",
+    "flat",
+    "tech"
+  ],
+  "license": "MIT",
+  "homepage": "blog.gooruu.com.br",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
