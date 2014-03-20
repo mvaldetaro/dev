@@ -2,7 +2,7 @@
   "name": "blog-gooruu",
   "version": "1.0.0",
   "description": "Blog do site Gooruu",
-  "main": "index.js",
+  "main": "Gruntfile.js",
   "author": "Magno Valdetaro",
   "license": "BSD",
   "devDependencies": {
@@ -13,7 +13,7 @@
     "grunt-contrib-livereload": "~0.1.2",
     "grunt-contrib-uglify": "~0.2.4",
     "grunt-contrib-cssmin": "~0.6.1",
-    "grunt-contrib-imagemin": "~0.2.1",
+    "grunt-contrib-imagemin": "~0.5.0",
     "matchdep": "~0.1.2",
     "grunt-recess": "~0.4.0",
     "grunt-ftp-deploy": "0.0.10",
@@ -22,16 +22,15 @@
     "grunt-contrib-htmlmin": "~0.1.3",
     "grunt-sync": "0.0.4"
   },
-  "main": "Gruntfile.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mvaldetaro/gooruu"
+    "url": "https://github.com/mvaldetaro/dev"
   },
   "bugs": {
-    "url": "https://github.com/mvaldetaro/gooruu/issues"
+    "url": "https://github.com/mvaldetaro/dev/issues"
   },
   "dependencies": {
     "grunt-sync": "0.0.4"
